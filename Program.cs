@@ -162,4 +162,29 @@
     // Задача 4
 
 // Task 1
-    
+
+//Console.Write("Введите число N: ");
+//int числоN = Convert.ToInt32(Console.ReadLine());
+
+//int N = 5;
+
+//if(N % 2 == 0) N = 2;
+//if(N % 2 == 0) N = 4;
+//{
+//Console.WriteLine("число " + 2 + ", число " + 4 );
+//}
+
+// Task 2
+
+Console.Write("Введите число N: ");
+int числоN = Convert.ToInt32(Console.ReadLine());
+
+int N = 8;
+
+if(N % 2 == 0) N = 2;
+if(N % 2 == 0) N = 4;
+if(N % 2 == 0) N = 6;
+if(N % 2 == 0) N = 8;
+{
+Console.WriteLine("четные числа " +2+ "," +4+ "," +6+ "," +8);
+}
