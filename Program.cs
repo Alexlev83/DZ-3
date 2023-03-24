@@ -1,0 +1,116 @@
+﻿//  Задача 1
+//  Task1
+
+//Console.Write("Введите число a: ");
+//int числоa = Convert.ToInt32(Console.ReadLine());
+//Console.Write("Введите число b: ");
+//int числоb = Convert.ToInt32(Console.ReadLine());
+
+//int a = 5;
+//int b = 7;
+// if(a > b)
+ //{
+//Console.WriteLine("min число " + a + ", max число " + b);
+// }
+//else 
+//{
+//Console.WriteLine("min число " + a + ", max число " + b);
+// }
+
+//  Task2
+
+//Console.Write("Введите число a: ");
+//int числоa = Convert.ToInt32(Console.ReadLine());
+//Console.Write("Введите число b: ");
+//int числоb = Convert.ToInt32(Console.ReadLine());
+
+//int a = 2;
+//int b = 10;
+//if(a > b)
+//{
+//Console.WriteLine("min число " + a + ", max число " + b);
+//}
+//else 
+//{
+//Console.WriteLine("min число " + a + ", max число " + b);
+//}
+
+//  Task3
+
+//Console.Write("Введите число a: ");
+//int числоa = Convert.ToInt32(Console.ReadLine());
+//Console.Write("Введите число b: ");
+//int числоb = Convert.ToInt32(Console.ReadLine());
+
+//int a = -9;
+//int b = -3;
+//if(a > b)
+//{
+//Console.WriteLine("min число " + a + ", max число " + b);
+//}
+//else 
+//{
+//Console.WriteLine("min число " + a + ", max число " + b);
+//}
+
+ //  Задача 2
+ // Task 1
+
+ //Console.Write("Введите число a: ");
+//int числоa = Convert.ToInt32(Console.ReadLine());
+//Console.Write("Введите число b: ");
+//int числоb = Convert.ToInt32(Console.ReadLine());
+//Console.Write("Введите число c: ");
+//int числоc = Convert.ToInt32(Console.ReadLine());
+//int a = 2;
+//int b = 3;
+//int c = 7;
+//int max = a;
+//if(max > b) max = b;
+//if(max < c) max = c;
+//{
+//Console.WriteLine("max число = " + max);
+//}
+
+// Task 2
+
+//Console.Write("Введите число a: ");
+//int числоa = Convert.ToInt32(Console.ReadLine());
+//Console.Write("Введите число b: ");
+//int числоb = Convert.ToInt32(Console.ReadLine());
+//Console.Write("Введите число c: ");
+//int числоc = Convert.ToInt32(Console.ReadLine());
+//int a = 44;
+//int b = 5;
+//int c = 78;
+//int max = a;
+//if(max > b) max = b;
+//if(max < c) max = c;
+//{
+//Console.WriteLine("max число = " + max);
+//}
+
+// Task 3
+
+//Console.Write("Введите число a: ");
+//int числоa = Convert.ToInt32(Console.ReadLine());
+//Console.Write("Введите число b: ");
+//int числоb = Convert.ToInt32(Console.ReadLine());
+//Console.Write("Введите число c: ");
+//int числоc = Convert.ToInt32(Console.ReadLine());
+//int a = 22;
+//int b = 3;
+//int c = 9;
+//int max = c;
+//if(max > b) max = b;
+//if(max < a) max = a;
+//{
+//Console.WriteLine("max число = " + max);
+//}
+
+// Задача 2
+
+
+
+
+    
