@@ -108,9 +108,58 @@
 //Console.WriteLine("max число = " + max);
 //}
 
-// Задача 2
+// Задача 3
+
+// Task 1
+
+//Console.Write("Введите число a: ");
+//int числоa = Convert.ToInt32(Console.ReadLine());
+
+//int a = 4;
+
+//if(a % 2 == 0)
+//{
+//Console.WriteLine("число четное ");
+//}
+//else
+//{
+    //Console.WriteLine("число нечетное ");
+    //}
+
+    // Task 2
+
+//Console.Write("Введите число a: ");
+//int числоa = Convert.ToInt32(Console.ReadLine());
+
+//int a = -3;
+
+//if(a % 2 == 0)
+//{
+//Console.WriteLine("число четное ");
+//}
+//else
+//{
+    //Console.WriteLine("число нечетное ");
+    //}
 
 
+// Task 3
 
+//Console.Write("Введите число a: ");
+//int числоa = Convert.ToInt32(Console.ReadLine());
 
+//int a = 7;
+
+//if(a % 2 == 0)
+//{
+//Console.WriteLine("число четное ");
+//}
+//else
+//{
+    //Console.WriteLine("число нечетное ");
+    //}
+
+    // Задача 4
+
+// Task 1
     
