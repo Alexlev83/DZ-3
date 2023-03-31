@@ -18,11 +18,8 @@
 // double disx = x2 - x1;
 // double disy = y2 - y1;
 // double disz = z2 - z1;
-
 // double disxyz = Math.Sqrt(disx * disx + disy * disy + disz * disz);5
-
 // return disxyz;
-
 // }
 // Console.Write("Ведите координату x1: ");
 // double x1 = Convert.ToInt32(Console.ReadLine());
@@ -36,11 +33,7 @@
 // double z1 = Convert.ToInt32(Console.ReadLine());
 // Console.Write("Ведите координату z2: ");
 // double z2 = Convert.ToInt32(Console.ReadLine());
-
 // Console.WriteLine(ShowDistance(x1, x2, y1, y2, z1, z2));
-
-
-
 
 // Задача 23
 
