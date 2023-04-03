@@ -2,7 +2,20 @@
 
 // Напишите программу, которая принимает на вход пятизначное число и проверяет, 
 // является ли оно палиндромом.
-
+bool number(int num)
+{
+    if(num/10000 == num %10)
+    {
+     return true;
+    }
+     else
+     {
+     return false;
+     }
+}
+Console.WriteLine("Введите число: ");
+int num = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine( number(num));
 
 // Задача 21
 
